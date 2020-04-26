@@ -1,6 +1,6 @@
-#KEYSMASH #
+# KEYSMASH #
 
-##Smashes the keyboard so you don't have to! ##
+## Smashes the keyboard so you don't have to! ##
 
 yeah basically it outputs random ascii strings
 
