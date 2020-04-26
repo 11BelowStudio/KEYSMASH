@@ -4,6 +4,16 @@ import java.io.*;
 
 public class Keysmash {
 
+    //TODO: create setting to use only easily avaliable keys on keyboard
+
+    //TODO: maybe also keys that are close together?
+
+    //TODO: left hand right hand repetition?
+
+    //TODO: fewer special characters?
+
+    //TODO: maybe even options for which hand or both  (and forehead)?
+
     public static void main(String args[]) {
 
         System.out.println("** KEYSMASH **");
